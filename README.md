@@ -11,7 +11,7 @@ This is a movie information app built with React Native and TypeScript, utilizin
 - Implements smooth scrolling behavior for optimal user experience, even with a large number of loaded movies.
 # Requirements Covered
 - Layout and UI Components:
--- Custom UI components built with React Native for reusability and enhanced user experience.
+  - Custom UI components built with React Native for reusability and enhanced user experience.
 Movie information cards display movie title, image, genre, cast, director, and short description.
 Default Page Load State:
 Loads 20 movies for the default year (2012) upon initial app load.
