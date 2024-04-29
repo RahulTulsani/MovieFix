@@ -29,3 +29,4 @@ This is a movie information app built with React Native and TypeScript, utilizin
 - React Native CLI installed globally (**`npm install -g react-native-cli`**).
 # Installation
 1. Clone the repository:
+   `git clone https://github.com/your-username/movie-list-app.git`
