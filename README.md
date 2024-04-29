@@ -4,7 +4,7 @@ This is a movie information app built with React Native and TypeScript, utilizin
 # Demo
 ![Movie List App Demo](https://github.com/RahulTulsani/MovieFix/blob/main/src/demo/Demo.gif)
 
-### Features
+# Features
 - Display a list of popular movies sorted by descending order of popularity.
 - Filter movies by genre using genre tags provided by TMDb API.
 - Load movies for the default year (2012) and dynamically fetch movies for previous or next years based on user scroll direction.
