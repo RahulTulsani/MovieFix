@@ -59,6 +59,6 @@ This is a movie information app built with React Native and TypeScript, utilizin
 # Additional Notes
 - **Smooth Scrolling:**
   - The app implements smooth scrolling behavior to ensure a seamless user experience, especially when loading more movies dynamically.
-- **Search Feature (Not Implemented):*
+- **Search Feature (Not Implemented):**
   - The search bar feature was listed as optional and is not included in this version of the app. If you wish to implement search functionality in the future, consider integrating a search bar component and modifying the API request to fetch movies matching the search query.
 
