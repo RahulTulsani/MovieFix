@@ -47,7 +47,7 @@ This is a movie information app built with React Native and TypeScript, utilizin
    # or
    npx react-native run-ios
 # APK Build (Android)
-  If you want to install the app on an Android device without building it from the source code, you can download the pre-built APK file from this ![GitHub link](https://github.com/RahulTulsani/MovieFix/blob/main/src/demo/MovieFix.apk).
+  If you want to install the app on an Android device without building it from the source code, you can download the pre-built APK file from this [GitHub link](https://github.com/RahulTulsani/MovieFix/blob/main/src/demo/MovieFix.apk).
 ## Installation Steps:
 Download the APK file from the Releases section.
 Transfer the APK file to your Android device (via USB, email, or cloud storage).
