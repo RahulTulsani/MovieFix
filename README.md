@@ -31,3 +31,11 @@ This is a movie information app built with React Native and TypeScript, utilizin
 1. **Clone the Repository:**:
    ```bash
    git clone https://github.com/your-username/movie-list-app.git
+2. **Navigate to the project directory:**:
+   ```bash
+   cd movie-list-app
+3. **Install dependencies:**:
+   ```bash
+   npm install
+   # or
+   yarn install
