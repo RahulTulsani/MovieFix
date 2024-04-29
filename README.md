@@ -37,3 +37,12 @@ This is a movie information app built with React Native and TypeScript, utilizin
 3. **Install dependencies:**:
    ```bash
    npm install
+# Running the App
+1. Start the Metro bundler:
+   ```bash
+   npx react-native start --port 8081 --reset-cache
+2. Run the app on a physical device or emulator:
+   ```bash
+   npx react-native run-android
+   # or
+   npx react-native run-ios
