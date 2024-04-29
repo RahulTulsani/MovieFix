@@ -26,4 +26,4 @@ This is a movie information app built with React Native and TypeScript, utilizin
 # Getting Started
 ## Prerequisites
 - Node.js and npm (or yarn) installed on your development machine.
-- React Native CLI installed globally (npm install -g react-native-cli).
+- React Native CLI installed globally (**`npm install -g react-native-cli`**).
