@@ -49,16 +49,16 @@ This is a movie information app built with React Native and TypeScript, utilizin
 # APK Build (Android)
   If you want to install the app on an Android device without building it from the source code, you can download the pre-built APK file from this [GitHub link](https://github.com/RahulTulsani/MovieFix/blob/main/src/demo/MovieFix.apk).
 ## Installation Steps:
-Download the APK file from the Releases section.
-Transfer the APK file to your Android device (via USB, email, or cloud storage).
-On your Android device, navigate to the location where you transferred the APK file using a file manager.
-Tap on the APK file to begin the installation process.
-Follow the on-screen instructions to complete the installation.
-Note:
-Make sure to enable "Install Unknown Apps" or "Unknown Sources" in your device settings to allow installation of apps from external sources.
-Additional Notes
-Smooth Scrolling:
-The app implements smooth scrolling behavior to ensure a seamless user experience, especially when loading more movies dynamically.
-Search Feature (Not Implemented):
-The search bar feature was listed as optional and is not included in this version of the app. If you wish to implement search functionality in the future, consider integrating a search bar component and modifying the API request to fetch movies matching the search query.
+1. Download the APK file from the above section.
+2. Transfer the APK file to your Android device (via USB, email, or cloud storage).
+3. On your Android device, navigate to the location where you transferred the APK file using a file manager.
+4. Tap on the APK file to begin the installation process.
+5. Follow the on-screen instructions to complete the installation.
+## Note:
+- Make sure to enable "Install Unknown Apps" or "Unknown Sources" in your device settings to allow installation of apps from external sources.
+# Additional Notes
+- **Smooth Scrolling:**
+  - The app implements smooth scrolling behavior to ensure a seamless user experience, especially when loading more movies dynamically.
+- **Search Feature (Not Implemented):*
+  - The search bar feature was listed as optional and is not included in this version of the app. If you wish to implement search functionality in the future, consider integrating a search bar component and modifying the API request to fetch movies matching the search query.
 
